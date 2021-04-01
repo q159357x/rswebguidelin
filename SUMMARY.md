@@ -4,7 +4,8 @@
 
 ## Visual
 
-* [Color](visual/color.md)
+* [Color](visual/color/README.md)
+  * [Untitled](visual/color/untitled.md)
 * [Typography](visual/typography.md)
 * [Icon](visual/icon.md)
 * [Layout](visual/layout.md)

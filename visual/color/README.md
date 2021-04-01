@@ -4,5 +4,5 @@ description: des
 
 # Color
 
-rule
+`ru`
 
