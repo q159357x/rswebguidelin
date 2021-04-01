@@ -12,4 +12,5 @@
 ---
 
 * [new page](new.md)
+* [new page 2](new-page-2.md)
 
