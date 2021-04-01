@@ -11,5 +11,5 @@
 
 ---
 
-* [!!!!NEW](new.md)
+* [new page](new.md)
 
